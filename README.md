@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaviya K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [AI Based Autom summarizer for emails and new articles](https://github.com/Kaviya-08/Kaviya-08-AI-project)
+- 🔭 I’m currently working on [AI Based Auto summarizer for emails and new articles](https://github.com/Kaviya-08/Kaviya-08-AI-project)
 
 - 📫 How to reach me **kaviya8903@gmail.com**
 
